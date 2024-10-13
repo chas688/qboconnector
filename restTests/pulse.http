@@ -1,0 +1,12 @@
+
+
+###
+POST http://qboconnector.test/api/register
+Content-Type: application/json
+
+{
+    "name": "Test User",
+    "email": "chas688@gmail.com"
+}
+
+
